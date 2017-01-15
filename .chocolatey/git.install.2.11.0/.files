@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\git.install\git.install.nupkg" checksum="61C45DB3078819568A4A6318361A35DF" />
+    <file path="C:\ProgramData\chocolatey\lib\git.install\git.install.nuspec" checksum="D673A56B7CB40392A511D13A62C08AF1" />
+    <file path="C:\ProgramData\chocolatey\lib\git.install\tools\chocolateyInstall.ps1" checksum="F0EDFBBADFE200C5E56ACC038E78DC63" />
+  </files>
+</fileSnapshot>

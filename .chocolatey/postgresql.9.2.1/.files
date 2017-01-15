@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\postgresql\postgresql.gif" checksum="8EB35D408C9E1E8D7232EC91B5CF322E" />
+    <file path="C:\ProgramData\chocolatey\lib\postgresql\postgresql.nupkg" checksum="3120D01F1459204CAC15610FFA24C9C8" />
+    <file path="C:\ProgramData\chocolatey\lib\postgresql\postgresql.nuspec" checksum="97F50790E1D87825C73A342E153C5253" />
+    <file path="C:\ProgramData\chocolatey\lib\postgresql\tools\chocolateyInstall.ps1" checksum="814DD511A9978931221853B6390A568E" />
+    <file path="C:\ProgramData\chocolatey\lib\postgresql\tools\installpostgre.ps1" checksum="4A02A5D4D59AEB2F270AEEE2E292D8B0" />
+  </files>
+</fileSnapshot>

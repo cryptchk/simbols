@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\mongodb.install\.chocolateyPending" checksum="8EB08F9E48F0F40CE81C35E31A8A9C0D" />
+    <file path="C:\ProgramData\chocolatey\lib\mongodb.install\mongodb.install.nupkg" checksum="7D43B1F0B91D0F8DAB542B3C7DC84130" />
+    <file path="C:\ProgramData\chocolatey\lib\mongodb.install\mongodb.install.nuspec" checksum="3EAAEE89442B90201167CA52E24360C7" />
+    <file path="C:\ProgramData\chocolatey\lib\mongodb.install\tools\chocolateyInstall.ps1" checksum="DBAD1A69763C81C2D5E42957FAC53DCC" />
+    <file path="C:\ProgramData\chocolatey\lib\mongodb.install\tools\chocolateyUninstall.ps1" checksum="49653AD4C9D8A7264CE3FFD7CCBD8BE0" />
+  </files>
+</fileSnapshot>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-492678908-2587671646-2171573226-1008</user>
+  <keys>
+    <key installerType="Msi" displayName="MongoDB 3.2.9 (64 bit)" displayVersion="3.2.9">
+      <RegistryView>Registry64</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{8555B59F-5B25-4190-B83E-39BB12A8A203}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{8555B59F-5B25-4190-B83E-39BB12A8A203}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[MongoDB]]></Publisher>
+      <InstallDate>20160911</InstallDate>
+      <InstallSource><![CDATA[C:\Users\Antoi\AppData\Local\Temp\chocolatey\mongodb.install\3.2.9\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>50462729</Version>
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>2</VersionMinor>
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\6017c82.msi]]></LocalPackage>
+    </key>
+  </keys>
+</registrySnapshot>

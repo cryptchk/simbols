@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\git\git.nupkg" checksum="90B4E4EE6F6A318B1BF96463A5FC3C13" />
+    <file path="C:\ProgramData\chocolatey\lib\git\git.nuspec" checksum="99891F95A7A8C21D848725F879383455" />
+  </files>
+</fileSnapshot>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\nginx\nginx-1.10.2.zip.txt" checksum="6EFECC68E5C93252A44C04A6EBCDFF32" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\nginx.nupkg" checksum="223D1C775F63923BE3C08250AA66C816" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\nginx.nuspec" checksum="65AF09D0C3DACA1E686A2A7E3ABD199B" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\chocolateyInstall.ps1" checksum="C32BFCCED965D287DCF05904A3780339" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\nginx.exe" checksum="ADC20EEA1ABBE9CBC12319013C8137D7" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\fastcgi.conf" checksum="C7410CB0F3605B4201888C91FBA1DED2" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\fastcgi_params" checksum="1690A072B48D6A838B7006EF137E0C68" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\koi-utf" checksum="CF9873A961FC52F0B4A30CAF5393B630" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\koi-win" checksum="4D74303B129125943E9150077BFDE7B0" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\mime.types" checksum="F87A8BEF79DCE0227BD40FE130F4595F" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\nginx.conf" checksum="B473E2DECB91326BED4B11820B9821E7" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\scgi_params" checksum="019DE4211C9933877BF5D661C344C0FA" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\uwsgi_params" checksum="16C1F3BC1A73FA046B6F8818968B25E0" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\conf\win-utf" checksum="4BC7943E899FA8112D583C7D90785F7F" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\geo2nginx.pl" checksum="35670709BE7FC98FB47013F565F55730" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\README" checksum="27D0F5BEE63AB0EB6A6C3F07DFE01640" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\unicode2nginx\koi-utf" checksum="9C4E84058416AF6184A8CFC10A9F6797" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\unicode2nginx\unicode-to-nginx.pl" checksum="84975D779D465085B1B16A76626C5EFB" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\unicode2nginx\win-utf" checksum="7BB4593F2ED0DD23FA6D825F440012A5" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\vim\ftdetect\nginx.vim" checksum="9E2E58984EC202CCBFCCF056AEE69DF5" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\vim\indent\nginx.vim" checksum="82273D127FF607BF6DB1268D32803C01" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\contrib\vim\syntax\nginx.vim" checksum="72CF3042E3DBEF2A17F880CBE77E0EF3" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\docs\CHANGES" checksum="2C1C3D6A533D0C8857B9C3DD00848106" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\docs\CHANGES.ru" checksum="0CA89C89FFAC85C024ED1A4851360B9B" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\docs\LICENSE" checksum="0BB58ED0DFD4F5DBECE3B52ABA79F023" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\docs\OpenSSL.LICENSE" checksum="27FFA5D74BB5A337056C14B2EF93FBF6" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\docs\PCRE.LICENCE" checksum="B8221CBF43C5587F90CCF228F1185CC2" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\docs\README" checksum="6A35D7240F0011220C3AE328E9E0D5EC" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\docs\zlib.LICENSE" checksum="703B8AFB4606FE3C6D225F5BBEECEEFB" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\html\50x.html" checksum="D74F9CDD604653C22C6752C46FFFD587" />
+    <file path="C:\ProgramData\chocolatey\lib\nginx\tools\nginx-1.10.2\html\index.html" checksum="E3EB0A1DF437F3F97A64ACA5952C8EA0" />
+  </files>
+</fileSnapshot>

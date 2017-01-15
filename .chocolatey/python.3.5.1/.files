@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\python\python.ketarin.xml" checksum="6A6D07CD98D1BFF46715B20D92D0DB5B" />
+    <file path="C:\ProgramData\chocolatey\lib\python\python.nupkg" checksum="7803D7EB45FD639D350B4DA7227E6586" />
+    <file path="C:\ProgramData\chocolatey\lib\python\python.nuspec" checksum="B8FEB9972CCA4BA98571D45E00A924D9" />
+  </files>
+</fileSnapshot>

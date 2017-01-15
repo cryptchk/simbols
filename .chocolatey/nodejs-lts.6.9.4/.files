@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\nodejs-lts.nupkg" checksum="9C9E1D5899D4B8A0CE19EC86C5E29AEF" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\nodejs-lts.nuspec" checksum="48A69FC4B03DA051F033E2BA0C21DBF9" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\legal\LICENSE.txt" checksum="73C9BBAC9FA7008DCC7FCB3B15AE2CC8" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\legal\VERIFICATION.txt" checksum="8A61D09D28456C3F4373CC6874D4BA1E" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\tools\chocolateyinstall.ps1" checksum="2D355CE1958182BC2CA193E1451EC043" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\tools\node-v6.9.4-x64_x64.msi" checksum="36B41DABF826C702394481CB92726D13" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\tools\node-v6.9.4-x64_x64.msi.ignore" checksum="BEA07E6D2B8DCE396FE21BAA61B34956" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs-lts\tools\node-v6.9.4-x86_x32.msi" checksum="934DD3EE2479C1AEB61C6A32445B335C" />
+  </files>
+</fileSnapshot>

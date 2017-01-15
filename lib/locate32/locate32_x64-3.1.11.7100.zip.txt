@@ -1,0 +1,25 @@
+﻿C:\ProgramData\chocolatey\lib\locate32\tools\ImgHnd.dll
+C:\ProgramData\chocolatey\lib\locate32\tools\keyhelper.dll
+C:\ProgramData\chocolatey\lib\locate32\tools\lan_en.dll
+C:\ProgramData\chocolatey\lib\locate32\tools\locate-example.ini
+C:\ProgramData\chocolatey\lib\locate32\tools\locate.exe
+C:\ProgramData\chocolatey\lib\locate32\tools\Locate32.chm
+C:\ProgramData\chocolatey\lib\locate32\tools\locate32.exe
+C:\ProgramData\chocolatey\lib\locate32\tools\loc_fndx.dll
+C:\ProgramData\chocolatey\lib\locate32\tools\portable.ini
+C:\ProgramData\chocolatey\lib\locate32\tools\Readme.txt
+C:\ProgramData\chocolatey\lib\locate32\tools\regs
+C:\ProgramData\chocolatey\lib\locate32\tools\regs\DeleteDatabaseFile - Allow.reg
+C:\ProgramData\chocolatey\lib\locate32\tools\regs\DeleteDatabaseFile - Disallow.reg
+C:\ProgramData\chocolatey\lib\locate32\tools\regs\REAMDE.txt
+C:\ProgramData\chocolatey\lib\locate32\tools\regs\ResultListDelayTimes.reg
+C:\ProgramData\chocolatey\lib\locate32\tools\regs\Search protocol - Register.reg
+C:\ProgramData\chocolatey\lib\locate32\tools\regs\Search protocol - Unregister.reg
+C:\ProgramData\chocolatey\lib\locate32\tools\SetTool.exe
+C:\ProgramData\chocolatey\lib\locate32\tools\templates
+C:\ProgramData\chocolatey\lib\locate32\tools\templates\List with Links.ret
+C:\ProgramData\chocolatey\lib\locate32\tools\templates\List.ret
+C:\ProgramData\chocolatey\lib\locate32\tools\templates\README.txt
+C:\ProgramData\chocolatey\lib\locate32\tools\templates\Thumbnails.ret
+C:\ProgramData\chocolatey\lib\locate32\tools\Updtdb32.exe
+

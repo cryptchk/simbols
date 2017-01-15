@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\locate32\.chocolateyPending" checksum="654C31AB9F6C556BD58BD166ED05BC39" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\locate32.nupkg" checksum="8894F83DAA62F796CAC198B2C5DC068C" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\locate32.nuspec" checksum="04F6EBAB8343E050982E717158BF3348" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\locate32_x64-3.1.11.7100.zip.txt" checksum="A8C5B6E38EBFDA24892C35C43BE55397" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\chocolateyInstall.ps1" checksum="01456A982012B6F7C3D30FB9F677DB83" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\ImgHnd.dll" checksum="85A61E047EBC353EFE0C1BF666F187F8" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\keyhelper.dll" checksum="7849438E8AEEB82D192DA5AEF4902E82" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\lan_en.dll" checksum="13520849DC3094BDD662225C948673E0" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\locate-example.ini" checksum="168933FA63EF3875E6F7D28D8B434C83" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\locate.exe" checksum="32EDDC709ACEADE0AD857E466224A9E1" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\Locate32.chm" checksum="834CF335905F69FB05B8AD03306A4458" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\locate32.exe" checksum="EA03093A9CB63E389AC4600F5761D3E7" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\locate32.exe.gui" checksum="D41D8CD98F00B204E9800998ECF8427E" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\loc_fndx.dll" checksum="4AC4EE1A6DFB5D1E8402DEEE82C7022D" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\portable.ini" checksum="A750F65517486FA72F565CB8B53721C3" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\Readme.txt" checksum="B36BD46EEA1E86AC40753759EA6036E7" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\SetTool.exe" checksum="68671EEDC2CBE1005CCD663D4FF034B6" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\Updtdb32.exe" checksum="3E9E54A9CF3861C3732D08264003FC60" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\regs\DeleteDatabaseFile - Allow.reg" checksum="1582F36D46CF244316057B08453ABA41" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\regs\DeleteDatabaseFile - Disallow.reg" checksum="ABF449CDDEFC7847E80A8F5F5600187E" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\regs\REAMDE.txt" checksum="D3D5B454C8839CF2F3718C0B6C6A25D7" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\regs\ResultListDelayTimes.reg" checksum="FAF5385751CDECD56A32A50A9E030CDB" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\regs\Search protocol - Register.reg" checksum="F74F40946C77A456F4DB04C7F45E63F8" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\regs\Search protocol - Unregister.reg" checksum="B9FE0511A7CCC1F76402C6CF9489F4E5" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\templates\List with Links.ret" checksum="B4F38B4CA24C8991309130C2C19401C8" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\templates\List.ret" checksum="2EE192D8F56F7187AC92F6256194EC90" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\templates\README.txt" checksum="48DDDE7B06F0E9C7BDBE7297C551DFF7" />
+    <file path="C:\ProgramData\chocolatey\lib\locate32\tools\templates\Thumbnails.ret" checksum="F600838875F503FFDABCB36D161D8243" />
+  </files>
+</fileSnapshot>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\vim\vim.nupkg" checksum="7DC5735D236838FDA45C2993ED8B52A9" />
+    <file path="C:\ProgramData\chocolatey\lib\vim\vim.nuspec" checksum="612250A61E0F08696E9B3C72068B0587" />
+    <file path="C:\ProgramData\chocolatey\lib\vim\tools\chocolateyInstall.ps1" checksum="46E880A99300DE21A6F1CD4F052618F9" />
+  </files>
+</fileSnapshot>

@@ -1,0 +1,1 @@
+﻿ --source="'https://chocolatey.org/api/v2/'" --allow-downgrade --allow-empty-checksums --use-package-exit-codes --execution-timeout="'2700'" --cache-location="'C:\Users\Antoi\AppData\Local\Temp\chocolatey'"

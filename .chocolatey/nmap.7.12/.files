@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\nmap\.chocolateyPending" checksum="62D1BA738D2D3168608DC1B141116C8E" />
+    <file path="C:\ProgramData\chocolatey\lib\nmap\nmap.nupkg" checksum="D763FC15723C5519DF1A464CD2847E4D" />
+    <file path="C:\ProgramData\chocolatey\lib\nmap\nmap.nuspec" checksum="A76DF17385EEE24C56557F957B270687" />
+    <file path="C:\ProgramData\chocolatey\lib\nmap\tools\chocolateyInstall.ps1" checksum="03EB6CEDF555EF86B7318AF3FC6FFA7A" />
+    <file path="C:\ProgramData\chocolatey\lib\nmap\tools\chocolateyUninstall.ps1" checksum="8CF8E3B730B4488846ADD18E3AFDBBFB" />
+  </files>
+</fileSnapshot>

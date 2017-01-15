@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>php</id>
+    <version>7.1.0</version>
+    <title>PHP (Hypertext Preprocessor)</title>
+    <authors>PHP Authors</authors>
+    <owners>PHP Authors</owners>
+    <licenseUrl>http://us.php.net/license/</licenseUrl>
+    <projectUrl>http://www.php.net/</projectUrl>
+    <iconUrl>https://rawgit.com/chocolatey/chocolatey-coreteampackages/4e147ce52b1a2a7ac522ffbce6d176f257de6ac1/icons/php.svg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>PHP is an HTML-embedded scripting language. Much of its syntax is borrowed from C, Java and Perl with a couple of unique PHP-specific features thrown in. The goal of the language is to allow web developers to write dynamically generated pages quickly.</description>
+    <summary>PHP – widely-used general-purpose scripting language that is especially suited for Web development and can be embedded into HTML.</summary>
+    <releaseNotes>https://secure.php.net/ChangeLog-7.php#7.1.0</releaseNotes>
+    <tags>php development programming foss cross-platform admin</tags>
+    <projectSourceUrl>http://git.php.net/</projectSourceUrl>
+    <packageSourceUrl>https://github.com/chocolatey/chocolatey-coreteampackages/tree/master/automatic/php</packageSourceUrl>
+    <docsUrl>https://secure.php.net/docs.php</docsUrl>
+    <bugTrackerUrl>https://bugs.php.net/</bugTrackerUrl>
+    <dependencies>
+      <dependency id="chocolatey" version="0.9.10" />
+      <dependency id="vcredist2015" />
+    </dependencies>
+  </metadata>
+</package>

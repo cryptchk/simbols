@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>7zip.commandline</id>
+    <version>16.02.0.20160811</version>
+    <title>7-Zip (Portable, CommandLine)</title>
+    <authors>Igor Pavlov</authors>
+    <owners>Igor Pavlov</owners>
+    <licenseUrl>http://www.7-zip.org/license.txt</licenseUrl>
+    <projectUrl>http://www.7-zip.org/</projectUrl>
+    <iconUrl>https://cdn.rawgit.com/ferventcoder/chocolatey-packages/02c21bebe5abb495a56747cbb9b4b5415c933fc0/icons/7zip.svg</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>7-Zip is a file archiver with a high compression ratio. This brings the 7zip command line version to your system.</description>
+    <summary>7-Zip is a file archiver with a high compression ratio.</summary>
+    <releaseNotes>http://www.7-zip.org/history.txt</releaseNotes>
+    <tags>7zip zip archiver</tags>
+    <packageSourceUrl>https://github.com/ferventcoder/chocolatey-packages/tree/master/automatic/7zip.commandline</packageSourceUrl>
+  </metadata>
+</package>

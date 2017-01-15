@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-492678908-2587671646-2171573226-1008</user>
+  <keys>
+    <key installerType="Msi" displayName="Node.js" displayVersion="7.3.0">
+      <RegistryView>Registry64</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{AC188260-7A9C-4F9C-B722-3634AA9068BC}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /I{AC188260-7A9C-4F9C-B722-3634AA9068BC}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Node.js Foundation]]></Publisher>
+      <InstallDate>20170109</InstallDate>
+      <InstallSource><![CDATA[C:\Users\Antoi\AppData\Local\Temp\chocolatey\nodejs.install\7.3.0\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>117637120</Version>
+      <VersionMajor>7</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>false</NoModify>
+      <NoRepair>false</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\WINDOWS\Installer\f621609.msi]]></LocalPackage>
+    </key>
+  </keys>
+</registrySnapshot>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\mysql\mysql.nupkg" checksum="3AB34327D142C79100105C7FA5B28297" />
+    <file path="C:\ProgramData\chocolatey\lib\mysql\mysql.nuspec" checksum="CB11693FB47DAAA667C3609A766AE86D" />
+    <file path="C:\ProgramData\chocolatey\lib\mysql\tools\chocolateyInstall.ps1" checksum="826AF95E33145F091FA91D7A8607E8BC" />
+  </files>
+</fileSnapshot>

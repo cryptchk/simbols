@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\php\php-7.1.0-nts-Win32-VC14-x64.zip.txt" checksum="EDBA8B3F2DC9A7CB70B20C90F6C35DA8" />
+    <file path="C:\ProgramData\chocolatey\lib\php\php.nupkg" checksum="699E5FA8839EFC204AD6956A334F1F7B" />
+    <file path="C:\ProgramData\chocolatey\lib\php\php.nuspec" checksum="6AC2DE9C42235F2654C00A0C1C3AC5F7" />
+    <file path="C:\ProgramData\chocolatey\lib\php\tools\chocolateyInstall.ps1" checksum="789FACC6D5BF97A51B79AAE34DEB32A7" />
+    <file path="C:\ProgramData\chocolatey\lib\php\tools\chocolateyUninstall.ps1" checksum="A1EB26BA418A983B8D35462DB73D568F" />
+    <file path="C:\ProgramData\chocolatey\lib\php\tools\helpers.ps1" checksum="5201A4AB53E4B090129688F2DA4BEDDF" />
+  </files>
+</fileSnapshot>

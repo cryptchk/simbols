@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fileSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <files>
+    <file path="C:\ProgramData\chocolatey\lib\nodejs.install\nodejs.install.nupkg" checksum="F7F8BD86EEAB8E9BBF56A796AC7D1848" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs.install\nodejs.install.nuspec" checksum="ABEE6D29686ECAB7B20E8CB5EB4DCCCB" />
+    <file path="C:\ProgramData\chocolatey\lib\nodejs.install\tools\chocolateyInstall.ps1" checksum="4A6E34151ADCB91661D4A4425B315CEB" />
+  </files>
+</fileSnapshot>
